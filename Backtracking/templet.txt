@@ -1,0 +1,17 @@
+def backtrack(parameters):
+    # 1️⃣ Base Case
+    if base_condition:
+        result.append(copy_of_current_state)
+        return
+    
+    # 2️⃣ Choices / Options
+    for choice in available_choices:
+        
+        # 3️⃣ Choose
+        make_choice(choice)
+        
+        # 4️⃣ Explore
+        backtrack(updated_parameters)
+        
+        # 5️⃣ Un-choose (Backtrack)
+        undo_choice(choice)

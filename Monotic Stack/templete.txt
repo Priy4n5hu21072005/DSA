@@ -1,0 +1,10 @@
+stack = []          # will store index or value
+result = [-1] * n   # default answer
+
+for i in range(n):
+    # condition yahan change hoti hai
+    while stack and nums[stack[-1]] < nums[i]:
+        idx = stack.pop()
+        result[idx] = nums[i]   # ya i - idx (distance type)
+
+    stack.append(i)

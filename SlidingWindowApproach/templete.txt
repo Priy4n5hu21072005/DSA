@@ -1,0 +1,9 @@
+left = 0
+for right in range(n):
+    # add nums[right]
+
+    while condition break:
+        # remove nums[left]
+        left += 1
+
+    # answer update
