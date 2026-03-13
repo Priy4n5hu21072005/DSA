@@ -51,7 +51,7 @@ To explore or run the solutions on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Priy4n5hu21072005/DSA.git
    cd DSA
    ```
 
