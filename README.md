@@ -8,14 +8,14 @@ The solutions are organized into individual directories based on their core algo
 
 | Category / Approach | Description |
 | :--- | :--- |
-| **[Backtracking](./Backtracking/)** | Solutions using the backtracking paradigm (e.g., N-Queens, Subsets, Permutations, Combinations). |
-| **[Binary Search](./BinarySearchApproach/)** | Search operations optimized in `O(log N)` using the binary search approach. |
-| **[DFS (Depth-First Search)](./DFS/)** | Recursive and iterative graph traversal techniques. |
-| **[Monotonic Stack](./Monotic%20Stack/)** | Problems involving Next Greater Element, histograms, and advanced stack optimizations. |
-| **[Prefix Sum](./PrefixSumApproach/)** | Range sum queries and array optimizations with cumulative sum techniques. |
-| **[Sliding Window](./SlidingWindowApproach/)** | Optimization problems on continuous subarrays or substrings. |
-| **[Tree](./Tree/)** | Advanced tree structures, traversals, and algorithms. |
-| **[Two Pointers](./TwoPointerApproach/)** | Efficient solutions using multiple pointers on arrays and strings. |
+| **[Backtracking](./Algorithms/Backtracking/)** | Solutions using the backtracking paradigm (e.g., N-Queens, Subsets, Permutations, Combinations). |
+| **[Binary Search](./Algorithms/Binary-Search/)** | Search operations optimized in `O(log N)` using the binary search approach. |
+| **[DFS (Depth-First Search)](./Algorithms/DFS/)** | Recursive and iterative graph traversal techniques. |
+| **[Monotonic Stack](./Data-Structures/Monotonic-Stack/)** | Problems involving Next Greater Element, histograms, and advanced stack optimizations. |
+| **[Prefix Sum](./Algorithms/Prefix-Sum/)** | Range sum queries and array optimizations with cumulative sum techniques. |
+| **[Sliding Window](./Algorithms/Sliding-Window/)** | Optimization problems on continuous subarrays or substrings. |
+| **[Tree](./Data-Structures/Tree/)** | Advanced tree structures, traversals, and algorithms. |
+| **[Two Pointers](./Algorithms/Two-Pointers/)** | Efficient solutions using multiple pointers on arrays and strings. |
 
 ## 🛠️ Languages & Tools
 - **Language**: Python 3.x

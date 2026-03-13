@@ -1,0 +1,23 @@
+# Problem Name: Rotate List
+# Problem Description: Given the head of a linked list, rotate the list to the right by k places.
+def rotateList(self,head,k):
+    if not head or not head.next or k==0 :
+        return head
+    length =1
+    tail=head
+    while tail.next:
+        tail=tail.next
+        length +=1
+    tail.next=head
+    k=k%length
+    if k==0:
+        tail.next=None
+        return head
+    steps = length-k-1
+    new_tail=head
+    for _ in range(steps):
+        new_tail=new_tail.next
+    new_head=new_tail.next
+    new_tail.next=None
+    return new_head
+
