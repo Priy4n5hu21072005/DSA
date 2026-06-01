@@ -35,11 +35,13 @@ The repository is modularly split into specific algorithmic concepts and underly
 | **Depth-First Search** | Extensive graph and deep tree traversals using structural recursion. | [📂 View](./Algorithms/DFS/) |
 | **Prefix Sum** | Array preprocessing for extremely fast `O(1)` contiguous range queries. | [📂 View](./Algorithms/Prefix-Sum/) |
 | **Sliding Window** | Time optimization problems spanning dynamic and fixed continuous subarrays. | [📂 View](./Algorithms/Sliding-Window/) |
+| **Sorting** | Standard and customized sequence sorting techniques and properties. | [📂 View](./Algorithms/Sorting/) |
 | **Two Pointers** | Space-optimized pointer techniques traversing sequence structures efficiently. | [📂 View](./Algorithms/Two-Pointers/) |
 
 ### 🏗️ Data Structures
 | Concept / Approach | Description | Explore |
 | :--- | :--- | :---: |
+| **Array** | Core continuous memory configurations and fundamental linear manipulations. | [📂 View](./Data-Structures/Array/) |
 | **Monotonic Stack** | Stacks customized for "Next Greater/Smaller Element" advanced patterns. | [📂 View](./Data-Structures/Monotonic-Stack/) |
 | **Trees** | Complex hierarchical traversal logic, restorations, and property validations. | [📂 View](./Data-Structures/Tree/) |
 
