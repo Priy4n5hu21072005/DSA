@@ -25,6 +25,6 @@ class solution:
                     return True
         return False
 words="ABCCED"
-board=[["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]]
+board=[['a',"B","C","E"],["S","F","C","S"],['a',"D","E","E"]]
 obj=solution()
 print(obj.wordSearch(words,board))
