@@ -1,4 +1,4 @@
-package JavaRevisionAndPractice.OOPSconcepts;
+package JavaRevisionAndPractice.OOPSConcepts;
 
 public class chapter3 {
     void m1(){
