@@ -10,6 +10,7 @@ public class chapter2 {
     class Financial extends MBA{
         void study(){
             System.out.println("good!");
+            
         }
     }
     public static void main(String[] args) {
