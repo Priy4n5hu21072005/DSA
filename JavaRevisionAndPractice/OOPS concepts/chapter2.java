@@ -1,4 +1,4 @@
-package JavaRevisionAndPractice;
+package JavaRevisionAndPractice.OOPSconcepts;
 //Encapsulation
 public class chapter2 {
     public class MBA{

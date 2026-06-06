@@ -1,4 +1,4 @@
-package JavaRevisionAndPractice;
+package JavaRevisionAndPractice.OOPSconcepts;
 // Method Overloading 
 public class chapter1 {
     int a ;
