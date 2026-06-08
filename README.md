@@ -45,6 +45,20 @@ The repository is modularly split into specific algorithmic concepts and underly
 | **Monotonic Stack** | Stacks customized for "Next Greater/Smaller Element" advanced patterns. | [📂 View](./Data-Structures/Monotonic-Stack/) |
 | **Trees** | Complex hierarchical traversal logic, restorations, and property validations. | [📂 View](./Data-Structures/Tree/) |
 
+### ☕ Java Revision & Practice
+| Concept / Module | Description | Explore |
+| :--- | :--- | :---: |
+| **Advance Java** | Advanced Java concepts and programming constructs. | [📂 View](./JavaRevisionAndPractice/AdvanceJava/) |
+| **Collection Framework** | Practice with Java's collections framework and data structures. | [📂 View](./JavaRevisionAndPractice/CollectionFramework/) |
+| **OOP Concepts** | Core Object-Oriented Programming principles in Java. | [📂 View](./JavaRevisionAndPractice/OOPSConcepts/) |
+
+### 🐍 Python Fundamentals & OOP
+| Concept / Module | Description | Explore |
+| :--- | :--- | :---: |
+| **OOP Concepts** | Object-Oriented Programming concepts implemented in Python. | [📂 View](./PythonFundamentalsAndOOP/OopsConcept/) |
+| **Python Data Structures** | Fundamental Python data structures and their usage. | [📂 View](./PythonFundamentalsAndOOP/PythonDataStructure/) |
+| **LeetCode Interview Revision** | Curated interview questions and LeetCode problem revisions. | [📂 View](./PythonFundamentalsAndOOP/RevisionLeetcodeInterviewQuestion/) |
+
 ---
 
 ## 🚀 Getting Started
