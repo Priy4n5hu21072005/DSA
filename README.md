@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Data Structures & Algorithms Mastery</h1>
+  <h1> Data Structures & Algorithms Mastery</h1>
   <p><i>A curated collection of highly optimized DSA solutions, structured by patterns and approaches.</i></p>
 
   <!-- Badges -->
