@@ -7,6 +7,9 @@ class Solution1:
             if char.isalnum():
                 temp+=char.lower()
         return temp==temp[::-1]
+    
+
+
 class Solution2:
     def Valid(self,s):
         temp=""
@@ -17,6 +20,9 @@ class Solution2:
         for i in range(len(temp)-1,-1,-1):
             rev+=temp[i]
         return temp==rev
+    
+
+    
 class Solution3:
     def Valid(self,s):
         l=0
