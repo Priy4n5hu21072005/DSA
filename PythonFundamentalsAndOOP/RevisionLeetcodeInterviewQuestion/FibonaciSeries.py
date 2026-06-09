@@ -24,3 +24,17 @@ class Solution2:
 n = int(input())
 obj = Solution2()
 obj.FibonaciSeries(n)
+
+
+# Factorial Problem By Iterative way 
+def Factorial(self,n):
+    ans = 0
+    for i in range(1,n+1):
+        ans *=i
+    return ans
+
+# Recursive Way
+def Factorial1(self,n):
+    if n == 0 or n ==1:
+        return n 
+    return n*Factorial1(n-1)
