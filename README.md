@@ -42,7 +42,7 @@ The repository is modularly split into specific algorithmic concepts and underly
 | Concept / Approach | Description | Explore |
 | :--- | :--- | :---: |
 | **Array** | Core continuous memory configurations and fundamental linear manipulations. | [📂 View](./Data-Structures/Array/) |
-| **Monotonic Stack** | Stacks customized for "Next Greater/Smaller Element" advanced patterns. | [📂 View](./Data-Structures/Monotonic-Stack/) |
+| **Monotonic Stack** | Stacks customized for "Next Greater/Smaller Element" advanced patterns. | [📂 View](Algorithms/Monotonic-Stack/) |
 | **Trees** | Complex hierarchical traversal logic, restorations, and property validations. | [📂 View](./Data-Structures/Tree/) |
 
 ### ☕ Java Revision & Practice
