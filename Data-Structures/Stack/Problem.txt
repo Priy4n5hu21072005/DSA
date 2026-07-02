@@ -1,0 +1,14 @@
+Problems for stack practice
+
+1. Valid Parentheses
+2. Baseball Game
+3. Backspace String Compare
+4. Remove All Adjacent Duplicates in String
+5. Make The String Great
+6. Build an Array With Stack Operations
+7. Crawler Log Folder
+8. Clear Digits
+9. Min Stack
+10.Evaluate Reverse Polish Notation
+11.Decode String
+12.Simplify Path
