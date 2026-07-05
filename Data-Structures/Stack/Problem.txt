@@ -11,4 +11,3 @@ Problems for stack practice
 9. Min Stack
 10.Evaluate Reverse Polish Notation
 11.Decode String
-12.Simplify Path
