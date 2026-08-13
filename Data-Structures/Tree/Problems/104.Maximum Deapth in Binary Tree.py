@@ -8,7 +8,7 @@ class Solution:
     def maxDeapth(self,root:list[TreeNode])->int:
         # Base Case
         if root is None:
-            return
+            return 0
         # left subtree traverse
         left = self.maxDeapth(root.left)
 
