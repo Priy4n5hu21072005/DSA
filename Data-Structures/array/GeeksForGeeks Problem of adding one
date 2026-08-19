@@ -1,0 +1,7 @@
+class Solution:
+    def addOne(self,nums:list[int])->list[int]:
+        for i in nums:
+            number=i
+        number+=1
+        ans=list[number]
+        return ans
