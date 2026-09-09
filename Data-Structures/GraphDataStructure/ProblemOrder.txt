@@ -1,0 +1,23 @@
+PHASE 1
+Graph Basics
+1971 → 733 → 200 → 695 → 547 → 841
+             ↓
+PHASE 2
+BFS
+994 → 542 → 1091 → 752 → 127 → 1926 → 934
+             ↓
+PHASE 3
+Graph DFS
+133 → 797 → 785 → 886 → 802 → 207
+             ↓
+PHASE 4
+Topological Sort
+207 → 210 → 802 → 2115 → 310
+             ↓
+PHASE 5
+Shortest Path
+743 → 1514 → 1631 → 787 → 1976
+             ↓
+PHASE 6
+DSU
+684 → 1319 → 721 → 990 → 1584
