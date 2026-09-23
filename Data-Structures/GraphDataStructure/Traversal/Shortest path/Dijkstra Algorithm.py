@@ -2,7 +2,9 @@ from collections import heapq
 def dijkstra(adj,src):
     V=len(adj)
     pq=[]
+
     distance=[float("-inf")]*V
+    distance[src]=0
     heapq.heappush(pq,(0,src))
     while pq:
         d,u=heapq.heappop(pq)
