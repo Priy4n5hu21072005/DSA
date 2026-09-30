@@ -1,0 +1,16 @@
+
+                 Shortcut to identify the recurrence relation for problem 
+
+
+
+1.Try to represent the problem in terms of indecs if is'nt in array still try 
+
+2. Do all possible stuff on that according to the problem statement 
+
+3.Sum of all stuff -> count all ways 
+  
+  min (all of the stuff)->find min 
+
+  max(all of the stuff)->find max
+
+  
